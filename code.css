@@ -1,0 +1,103 @@
+header{
+    background-image: linear-gradient(120deg,orange,white,green);
+    color: black;
+    margin-top:20px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.b5150f67cf17ecc6d6b5a9dc34cb24e6?rik=NcQmIaP8nYCwEQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fwc1779186.jpg&ehk=LQAY2H4zWSWjG29poUL2dp4GboDb9h9xKNa8%2b2%2flzZo%3d&risl=&pid=ImgRaw&r=0");
+    background-repeat: none;
+    background-size: cover;
+}
+.first{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.second{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.third{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.fourth{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.fifth{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.sixth{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.seventh{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.eight{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.nine{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
+.ten{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    column-gap: 30px;
+    text-align: justify;
+    margin: 10px;
+    border-radius: 10px;
+}
